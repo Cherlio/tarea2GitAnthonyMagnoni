@@ -16,6 +16,8 @@ public class Tarea2GitAnthonyMagnoni {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        Jugador jug1 = new Jugador("Cris", 3, 44);
     }
     
 }
